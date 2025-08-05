@@ -6,9 +6,9 @@ I'm ***Kevin***, a CS student at *Pitt*. I am currently living the life of a stu
 
 🍂 **About Me**
 
-- *Pho* over everything!
+- I like eating pho
 - Aside from coding, I watch a lot of anime.  
-- *Avid gamer and sleeper* 
+- I am good at Clash of Clans 
 
 <img src="https://media1.tenor.com/m/oziJ-NZiXmAAAAAd/kirby-suck.gif" width="200">  <img src="https://media.tenor.com/tC1wEBUuDPAAAAAM/kirby-sleep.gif" width="212">
 
