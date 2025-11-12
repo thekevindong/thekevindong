@@ -22,7 +22,7 @@ public class Kevin {
 - I pretty good at Clash of Clans & Clash Royale 🏰
 - I like Kirby and Squirtle 
 
-<img src="https://media1.tenor.com/m/oziJ-NZiXmAAAAAd/kirby-suck.gif" width="200"> <img src="https://media.tenor.com/tC1wEBUuDPAAAAAM/kirby-sleep.gif" width="212"> <img src="https://c.tenor.com/Ken3eHIfWnAAAAAC/tenor.gif)" width="205"> <img src="https://c.tenor.com/y8_GcVWBbFoAAAAC/tenor.gif" width="200">
+<img src="https://media1.tenor.com/m/oziJ-NZiXmAAAAAd/kirby-suck.gif" width="200"> <img src="https://c.tenor.com/Ken3eHIfWnAAAAAC/tenor.gif)" width="205"> <img src="https://c.tenor.com/y8_GcVWBbFoAAAAC/tenor.gif" width="200">
 
 ### 📫 Connect With Me  
 
