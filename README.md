@@ -1,5 +1,5 @@
 # 👋 Hello World! 🌍
-I'm **Kevin**, a CS student at Pitt. I am currently living the life of a student eagerly pursuing a career in Software Engineering. Welcome into my digital playground where my personal and collaborative projects are brought to life. Explore the bits and bytes of what I'm working on, learning, and building.
+I'm **Kevin**, a CS student at Pitt. I am currently living the life of a student eagerly pursuing a career in Software Engineering. Welcome to my playground where my personal and collaborative projects are brought to life. 
 ### 🚀 About Me
 ```java
 public class Kevin {
