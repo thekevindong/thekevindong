@@ -5,7 +5,7 @@ I'm **Kevin**, a CS student at Pitt. I am currently living the life of a student
 public class Kevin {
     String location = "Pittsburgh, PA";
     String school = "University of Pittsburgh - CS + IS '27";
-    String role = "Incoming SWE Intern @ DICK'S Sporting Goods";
+    String role = "Previously SWE Intern @ DICK'S Sporting Goods";
     String[] hobbies = {"coding", "collecting mechanical keyboards", "anime", "pho", "book nerd", "novels"};
     
     public String funFact() {
